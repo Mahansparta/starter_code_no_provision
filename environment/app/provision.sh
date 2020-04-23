@@ -26,3 +26,4 @@ sudo cp /home/ubuntu/environment/nginx.default /etc/nginx/sites-available/defaul
 #sudo ln /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 # finally, restart the nginx service so the new config takes hold
 sudo service nginx restart
+ 
